@@ -1,7 +1,7 @@
 ## Opa, tranquilo?
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="jottape-pic" height="150"  src="https://cdn.discordapp.com/attachments/1073654452080357396/1082414524788908082/jp-icon.png?width=676&height=676">
+  <img align="right" alt="jottape-pic" height="150"  src="https://cdn.discordapp.com/attachments/1073654452080357396/1096917542070648852/logo-icone.png?width=676&height=676">
 </div>
 
 <br>
